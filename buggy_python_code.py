@@ -1,4 +1,3 @@
-# this comment is here only bcs of commit
 # contains bunch of buggy examples
 # taken from https://hackernoon.com/10-common-security-gotchas-in-python-and-how-to-avoid-them-e19fbe265e03
 import subprocess
